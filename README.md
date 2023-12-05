@@ -1,2 +1,2 @@
 # Datamining_finalreport
-Only use it for DM lesson, will delete it ASAP.
+This repository is only use for NTUST DM lesson, will delete it ASAP.
